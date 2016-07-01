@@ -19,7 +19,7 @@ html {
 }
 
 h1 {
-  font-family: 'Oswald', sans-serif;
+  font-family: Oswald, sans-serif;
   font-weight: 400;
   color: black;
   text-align: center;
@@ -96,9 +96,11 @@ svg {
   }
 
 }
+
 #o-orange {
   transform-origin: center center;
   animation: spin 1s infinite linear;
+
 }
 
 @keyframes spin {
