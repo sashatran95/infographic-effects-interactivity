@@ -125,8 +125,8 @@ svg {
 
 }
 
-.section-pop-up {
+.pop-up {
   opacity: 1;
-  animation: section-pop 250ms linear;
+  animation: pop 250ms linear;
 
 }
