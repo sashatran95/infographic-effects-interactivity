@@ -18,6 +18,15 @@ html {
 
 }
 
+h1 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+  color: black;
+  text-align: center;
+  font-size: 16pt;
+
+}
+
 body {
   margin: 0;
 
@@ -76,6 +85,13 @@ svg {
     text-align: right;
     display: block;
     position: relative;
+
+  }
+
+  h1 {
+    font-size: 30pt;
+    margin-top: 0 auto;
+    font-weight: 700;
 
   }
 
