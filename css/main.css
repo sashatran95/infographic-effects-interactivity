@@ -93,7 +93,7 @@ svg {
 
 }
 
-#icon {
+.icon {
   transform-origin: center center;
   animation: shake 100ms infinite alternate;
 
